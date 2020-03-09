@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="btn1_title">start new activity</string>
+    <string name="btn3_title">start setting activity</string>
+    <string name="activity2_title">this is new activity</string>
+    <string name="setting_activity_title">this is setting activity</string>
+    <string name="language_cn">中文</string>
+    <string name="language_en">ENGLISH</string>
+    <string name="language_auto">自动</string>
+    <string name="language_select">setting language: </string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="confirm">confirm</string>
+</resources>
